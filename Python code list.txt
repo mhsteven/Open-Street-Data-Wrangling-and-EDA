@@ -1,0 +1,6 @@
+
+1. street_name_audit.py: This is the code based on lecture case study that helps me to audit the street name, to capture any inconsistency of the street type spelling, intended to change all abbriviation to full spelling (eg. St => Street, Ln => Lane)
+
+2. clean_write_to_csv.py: This is the code also based on lecture case study and modified to help me to standardize the street name and zip code and write to 5 csv files.
+
+3. extract_sample.py: This is the code based on project detail instruction, to extract sample from the original xml file of the map dataset.
